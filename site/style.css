@@ -3,12 +3,11 @@ body{
 	width: 800px;
 	margin: auto;
 }
-
-h1{
-	color: maroon;
+div{
+	border: 5px solid maroon;
 	text-align: center;
+	padding:5px;
 }
-
 p{
 	color:gray;
 	border: 1px solid gray;
